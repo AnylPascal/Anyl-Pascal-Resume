@@ -1,0 +1,20 @@
+{
+	"name": "Anyl Pascal",
+	"website": "https://anylpascal.dev/",
+	"linkedin": "https://www.linkedin.com/in/anylpascal/",
+	"github": "https://github.com/AnylPascal", 
+	"email": "info@anylpascal.dev",
+	"resume": "",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Node",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django",
+		"Wordpress"
+		
+	],
+	"otherSkills": ["Soon to be Dual Citizen", "Great Cook", "Entrepreneurial"]
+}
